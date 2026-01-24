@@ -7,7 +7,7 @@
 ## 🖼️ Logo
 > Add your logo here (replace the placeholder)
 
-![SnipItX Logo](assets/logo.png)
+![SnipItX Logo](snipitx-links/src/assets/logo.png)
 
 
 ---
