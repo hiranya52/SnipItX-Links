@@ -3,6 +3,7 @@ import { Link2 } from "lucide-react";
 export default function Navbar({ onNavigate }) {
   return (
     <nav className="fixed top-0 w-full z-50 backdrop-blur-md bg-[#121012]/80 border-b border-[#E84F5E]/20">
+
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div
